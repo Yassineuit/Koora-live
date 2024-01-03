@@ -8,7 +8,7 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
                      level=logging.INFO)
 
 # استبدال "TOKEN" بتوكن البوت الخاص بك الذي حصلت عليه من BotFather
-TOKEN = 'YOUR_BOT_TOKEN'
+TOKEN = '6928157290:AAHP3HLKonL4gbN4d5rlqxJBaqKf-CIvPrw'
 
 # إنشاء كائن Updater وتمرير توكن البوت الخاص بك
 updater = Updater(token=TOKEN, use_context=True)
